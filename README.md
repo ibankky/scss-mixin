@@ -1,1 +1,6 @@
-Cr https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
+รวบรวม Mixin Scss ที่ติดว่าสามารถนำมาใช้ได้จริง
+
+Resources From:
+https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
+
+http://gillesbertaux.com/andy/
