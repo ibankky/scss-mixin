@@ -1,4 +1,4 @@
-รวบรวม Mixin Scss ที่ติดว่าสามารถนำมาใช้ได้จริง
+รวบรวม Mixin SCSS ที่คิดว่าสามารถนำมาใช้ได้จริง
 
 Resources From:
 https://medium.com/@justinbrazeau/10-useful-sass-mixins-for-automation-833cdee9d69b
