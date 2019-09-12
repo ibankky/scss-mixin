@@ -1,0 +1,10 @@
+@mixin center-h($height) {
+    position: absolute;
+    top: 50%;
+    height: $height;
+    margin-top: -($height / 2);
+}
+
+.foo {
+    @include center-h(42px);
+}
